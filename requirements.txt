@@ -1,0 +1,8 @@
+langchain
+pypdf
+unstructured
+sentence_transformers
+pinecone-client
+llama-cpp-python
+huggingface_hub
+langchain-community
