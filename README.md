@@ -9,6 +9,7 @@ A PDF processing and similarity search engine using LangChain and Pinecone, powe
 - Store and search document vectors using Pinecone
 
  ## Configuration
-Before running the script, set your Pinecone API keys :[Pinecone](https://www.pinecone.io/).
-and Hugging Face: [Hugging Face](https://huggingface.co/).
+Before running the script, set your Pinecone API keys:
+-[Pinecone](https://www.pinecone.io/).
+-[Hugging Face](https://huggingface.co/).
 
